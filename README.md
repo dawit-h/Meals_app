@@ -1,16 +1,32 @@
-# meals_app
+# Meal app
 
-A new Flutter project.
+Meals app is built using flutter and basic flutter widgets and the basic used widgets are:
+<ul>
+<li>Used basic built-in eidgets like container, grid view, drawer, bottom navigation bar</li>
+<li>Multi page app</li>
+<li>Passing data between pages to manage the state of the app</li>
+<li>using map object and using custome model</li>
+<li>navigation through bottom navigation bar</li>
+<li>Filtering meals method's</li>
 
-## Getting Started
+</ul>
+![Meals category page]()
+![category home page]()
 
-This project is a starting point for a Flutter application.
+***TO run the app***
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+git clone git@github.com:dawit-h/Meals_app.git
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+cd Meals_app
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter pub get
+```
+
+```bash
+flutter run
+```
