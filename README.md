@@ -10,8 +10,9 @@ Meals app is built using flutter and basic flutter widgets and the basic used wi
 <li>Filtering meals method's</li>
 
 </ul>
-![Meals category page](https://github.com/dawit-h/Meals_app/blob/master/screenshot/Screenshot_1682362494.png)
-![category home page](https://github.com/dawit-h/Meals_app/blob/master/screenshot/Screenshot_1682362306.png)
+## screen shot's
+<img src="https://github.com/dawit-h/Meals_app/blob/master/screenshot/Screenshot_1682362494.png" />
+<img src="https://github.com/dawit-h/Meals_app/blob/master/screenshot/Screenshot_1682362306.png" />
 
 ***TO run the app***
 
